@@ -1,9 +1,9 @@
 # E-Shop
-<p align="center">Free Laravel e-commerce for business</p>
+Free Laravel e-commerce solution
 
 
 #### About E-shop
-Free Open source E-commerce use Laravel framework for Business
+Free Open source E-commerce use Laravel framework 
 
 #### E-shop functions:
 
